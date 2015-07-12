@@ -1,31 +1,34 @@
-# Animations and Gestures Demo
+<h1>Animation and Gestures/h1>
+
+<p>
+This is an Android demo application for displaying the animations and gestures.
+</p>
+
+<p>
+How many hours did it take to complete?
+5 hours - Reading the notes, watching the tutorial and class videos and working on the application.
+</p>
+
+<p>
+Which required and optional stories have you completed?
 
 Android demo for drawables and styles including:
 
- * Demo of fading and sliding views with animations
- * Demo of repeating animations
- * Demo of transitioning between activities with custom animation
- * Demo of gesture recognizers for a view (double tap, swipe)
- * Demo of dragging views around into droppable target zones
- 
-<img src="http://i.imgur.com/Zht9J3F.png" width="300" />&nbsp;
-<img src="http://i.imgur.com/eJCb11J.png" width="300" />&nbsp;
+- Demo of fading and sliding views with animations
+- Demo of repeating animations
+- Demo of transitioning between activities with custom animation
+- Demo of gesture recognizers for a view (double tap, swipe)
+- Demo of dragging views around into droppable target zones
 
-<img src="http://i.imgur.com/B5DOuaO.png" width="300" />&nbsp;
-<img src="http://i.imgur.com/hzqGZUE.png" width="300" />&nbsp;
- 
-## Use Cases 
- 
-### Animations
+</p>
 
-* Use case #1: Fading in a view
-* Use case #2: Displaying a slide-in message
-* Use case #3: Repeat and callback an animation
-* Use case #4: Activity transitions
- 
-### Gestures
+</p>
+GIF walkthrough of all required and optional stories (using LiceCap)
+Added
+</p>
 
-* Use case #1: Double Tap Gesture
-* Use case #2: Swipe gesture
-* Use case #3: Drag a square
-* Use case #4: Draggable and drop targets
+<p>
+Demo Link: <a href="https://github.com/bhusarisuccess/Animations_and_Gestures/blob/master/Demo/animationweek7.gif"> <br> <br>
+<img border="0" src="https://github.com/bhusarisuccess/Animations_and_Gestures/blob/master/Demo/animationweek7.gif" width="60%" height="60%"> <br>
+</a>
+</p>
