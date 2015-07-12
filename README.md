@@ -1,4 +1,5 @@
-<h1>Animation and Gestures/h1>
+
+<h1>Animation and Gestures</h1>
 
 <p>
 This is an Android demo application for displaying the animations and gestures.
